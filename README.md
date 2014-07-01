@@ -1,7 +1,7 @@
 O que é
 =======
 
-O site da Folha de S. Paulo permite que você leia um número limitado de materias por mês. Após esse limite, ele bloqueia (de maneira bem frágil) a visualização das matérias).
+O site da Folha de S. Paulo permite que você leia um número limitado de materias por mês. Após esse limite, ele bloqueia (de maneira bem frágil) a visualização das matérias.
 
 Este pequeno script tira o bloqueio da página e permite que você leia o conteúdo
 
